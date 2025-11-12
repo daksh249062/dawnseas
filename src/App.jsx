@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Login from './Login';
+import Login from './login';
 import About from './About';
 import Contact from './Contact';
 import './App.css';
